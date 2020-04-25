@@ -1,2 +1,3 @@
 files/*
 !err.json
+__pycache__/*
