@@ -40,3 +40,6 @@ def resurce_all(resurce):
             json_file.close
 
     return jsonify(json_load)
+
+    #追加
+
